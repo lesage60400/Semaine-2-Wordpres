@@ -9,7 +9,7 @@ Restitution sur la semaine précédente
 - Présentation des apprenants des projets de la semaine d'avant  
 - Retour sur mes attentes  
 - Gestion des projets :
-- Etapes et définitions: https://www.emarketeur.fr/gestion-de-projet-web  
+- (Etapes et définitions)[https://www.emarketeur.fr/gestion-de-projet-web]  
 - Brainstorming pour la préparation du blog de la formation  
 - Présentation des projets à présenter pour la semaine 3:  
 En groupe de 2 ou 3 :
