@@ -8,7 +8,7 @@ Restitution sur la semaine précédente
 ## Mardi 16 matin 2017
 - Présentation des apprenants des projets de la semaine d'avant  
 - Retour sur mes attentes  
-- Gestion des projets :
+- Gestion des projets :  
 (Etapes et définitions :)[https://www.emarketeur.fr/gestion-de-projet-web]  
 (Rédaction cahier des charges :)[https://www.anthedesign.fr/creation-de-sites-internet/cahier-des-charges-site-internet/]
 (Exemple de cahier des charges :)[http://blog.impala-webstudio.fr/modele-cahier-des-charges-site-internet]
