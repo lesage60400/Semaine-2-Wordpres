@@ -8,7 +8,7 @@ Restitution sur la semaine précédente
 ## Mardi 16 matin 2017
 - Présentation des apprenants des projets de la semaine d'avant  
 - Retour sur mes attentes  
-- Présentation de la gestion de projet
+https://www.emarketeur.fr/gestion-de-projet-web  
 - Brainstorming pour la préparation du blog de la formation  
 - Présentation des projets à présenter pour la semaine 3:  
 En groupe de 2 ou 3 :
