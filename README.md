@@ -21,8 +21,8 @@ pencil : https://www.youtube.com/watch?v=ZlefJh7aR8w
 balsamiq : https://www.youtube.com/watch?v=ODDURLy85d4  
 
 ## Projet de la semaine  
-En groupe de 2 ou 3 :
+En groupe de 2 ou 3 :  
 Imaginer et créer un cahier des charges sur un projet personnel  
-Imaginer grâce aux outils Pencil ou Balsamiq la maquette du blog de la formation
-En individuel :
+Imaginer grâce aux outils Pencil ou Balsamiq la maquette du blog de la formation  
+En individuel :  
 Créer sur wordpress un site sur un restaurant italien imaginaire.
