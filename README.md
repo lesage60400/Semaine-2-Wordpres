@@ -9,8 +9,11 @@ Restitution sur la semaine précédente
 - Présentation des apprenants des projets de la semaine d'avant  
 - Retour sur mes attentes  
 - Gestion des projets :
-- (Etapes et définitions)[https://www.emarketeur.fr/gestion-de-projet-web]  
-- Brainstorming pour la préparation du blog de la formation  
+Etapes et définitions : [https://www.emarketeur.fr/gestion-de-projet-web]  
+Rédaction cahier des charges : https://www.anthedesign.fr/creation-de-sites-internet/cahier-des-charges-site-internet/
+Exemple de cahier des charges : http://blog.impala-webstudio.fr/modele-cahier-des-charges-site-internet
+- Brainstorming pour la préparation du blog de la formation : 
+Définition : https://fr.wikipedia.org/wiki/Brainstorming
 - Présentation des projets à présenter pour la semaine 3:  
 En groupe de 2 ou 3 :
 Imaginer et créer un cahier des charges sur un projet personnel  
