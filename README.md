@@ -14,6 +14,13 @@ Rédaction cahier des charges : https://www.anthedesign.fr/creation-de-sites-int
 Exemple de cahier des charges : http://blog.impala-webstudio.fr/modele-cahier-des-charges-site-internet
 - Brainstorming pour la préparation du blog de la formation : 
 Définition : https://fr.wikipedia.org/wiki/Brainstorming
+- Maquettage du site web
+Les outils:  
+http://www.usabilis.com/liste-outils-maquettage/  
+Tuto d'utilisation:  
+pencil : https://www.youtube.com/watch?v=ZlefJh7aR8w  
+balsamiq : https://www.youtube.com/watch?v=ODDURLy85d4  
+
 - Présentation des projets à présenter pour la semaine 3:  
 En groupe de 2 ou 3 :
 Imaginer et créer un cahier des charges sur un projet personnel  
